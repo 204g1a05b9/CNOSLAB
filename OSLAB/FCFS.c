@@ -1,5 +1,5 @@
 #include <stdio.h>
   int main()
 {
-printf("CN LAB");
+printf("Prabhas and Kajol");
 }
